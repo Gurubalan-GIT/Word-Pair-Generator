@@ -1,6 +1,5 @@
-# wordpair_generator
-
-A new Flutter project.
+# Word Pair Generator
+A simple flutter application which generates infinite word pairs on scroll and also have a list of words saved by the user.
 
 ## Getting Started
 
